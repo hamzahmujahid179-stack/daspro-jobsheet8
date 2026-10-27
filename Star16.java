@@ -1,0 +1,5 @@
+import java.util.Scanner;
+
+public class Star16 {
+    
+}
