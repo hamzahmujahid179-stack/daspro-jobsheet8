@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Star16 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Masukkan nilai n = "); 
         int n = sc.nextInt();
@@ -11,6 +11,6 @@ public class Star16 {
             System.out.print("*"); 
             }
         System.out.println(); 
-        scanner.close();
+        sc.close();
     }
 }
